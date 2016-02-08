@@ -8,8 +8,11 @@ The Property Funder is a 'kickstarter for property funding'.
 ## Technology Stack
 
 Hapi.js(Node.js framework)
+
 Redis
+
 Google Forms
+
 Bootstrap
 
 #Links
