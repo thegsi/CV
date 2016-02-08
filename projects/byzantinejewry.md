@@ -6,9 +6,13 @@
 #Technology Stack
 
 PostgreSQL
+
 PostGIS
+
 PHP
+
 JQuery
+
 Google Maps API
 
 #Links
