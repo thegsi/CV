@@ -3,6 +3,7 @@
 
 The Property Funder is a 'kickstarter for property funding'.
 
+![propertyfunder](https://cloud.githubusercontent.com/assets/12121805/12899757/ed7e826a-ceaa-11e5-856b-310b35e87d0b.png)
 
 ## Technology Stack
 
