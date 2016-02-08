@@ -6,9 +6,9 @@ Piccnic is a food delivery app, the app was created as a two week MVP using reac
 
 ###Technology Stack
 
+React
 Node
 Hapi
-Redis
 
 ###Links
 
