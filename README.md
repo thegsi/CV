@@ -2,7 +2,7 @@ I get excited by making things/creating with Javascript whether designing front
 
 ### Skills
 
-<img src="https://cloud.githubusercontent.com/assets/12121805/12115733/88fc9160-b3ac-11e5-85bf-451b3d3b0144.png" width="900" height="700" />
+<img src="https://cloud.githubusercontent.com/assets/12121805/12115733/88fc9160-b3ac-11e5-85bf-451b3d3b0144.png" width="900" height="800" />
 
 
 ### Experience
