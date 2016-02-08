@@ -6,10 +6,15 @@ View your journey on the tube through London on an animated map.
 #Technology Stack
 
 Leaflet
+
 D3
+
 TFL API
+
 Travis
+
 Istanbul
+
 Tape
 
 #Links
