@@ -1,9 +1,9 @@
 
-#Tuber
+## Tuber
 
 View your journey on the tube through London on an animated map.
 
-#Technology Stack
+### Technology Stack
 
 Leaflet
 
@@ -17,7 +17,7 @@ Istanbul
 
 Tape
 
-#Links
+### Links
 
 Github https://github.com/fcscripters/tuber
 URL http://tuberscripters.herokuapp.com/
