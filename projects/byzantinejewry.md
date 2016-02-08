@@ -1,9 +1,9 @@
 
-#Mapping the Jewish Communities of the Byzantine Empire
+##Mapping the Jewish Communities of the Byzantine Empire
 
 
 
-#Technology Stack
+###Technology Stack
 
 PostgreSQL
 
@@ -15,6 +15,6 @@ JQuery
 
 Google Maps API
 
-#Links
+###Links
 
 URL http://www.byzantinejewry.net/
