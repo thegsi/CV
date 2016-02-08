@@ -4,9 +4,9 @@ Piccnic is a food delivery app, the app was created as a two week MVP using reac
 
 ![piccnicc2](https://cloud.githubusercontent.com/assets/12121805/12899619/04ac7f60-ceaa-11e5-9cb6-130484cfcddc.png)
 
-![piccnicc3](https://cloud.githubusercontent.com/assets/12121805/12899641/23366b94-ceaa-11e5-98c8-4ed00ec588de.png
-
 #Links
 
 Github Repository https://github.com/jgne/bubbles
 URL http://bubbles-mvp.herokuapp.com
+
+![piccnicc3](https://cloud.githubusercontent.com/assets/12121805/12899641/23366b94-ceaa-11e5-98c8-4ed00ec588de.png)
