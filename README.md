@@ -38,5 +38,5 @@ PhD in the Department of Archaeology.
 - [Piccnicc](projects/piccnicc.md)
 - [Property Funder](projects/propertyfunder.md)
 - [Tuber](projects/tuber.md)
-- [Byzantine Jewry] (projects/byzantinejewry.net)
+- [Byzantine Jewry] (projects/byzantinejewry.md)
 - [Unitie] (project/unitie.md)
