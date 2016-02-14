@@ -17,7 +17,7 @@ http://bubbles-mvp.herokuapp.com/
 
 Sixteen week, full-time software development boot camp. An amazing experience
 
-test driven development__, __agile methodologies__ and __pair programming.
+using test driven development, agile methodologies and pair programming.
 
 
 <img src="https://cloud.githubusercontent.com/assets/12121805/12056635/7930f51c-af30-11e5-8388-dbbaa4bc0f4d.png" width="150" height="150"  />
